@@ -36,3 +36,4 @@ Developer documentation for deprecated versions remains available but is no long
 {% for deprecatedDevRelease in enterpriseServerReleases.deprecatedReleasesOnDeveloperSite %}
 - [Enterprise Server {{deprecatedDevRelease}}](https://developer.github.com/enterprise/{{deprecatedDevRelease}})
 {% endfor %}
+Richard Warren warhurst jr 
